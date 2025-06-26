@@ -17,18 +17,18 @@ The table above gives a summary view of 7 basis concepts as columns and their di
 > ***A 7-axis conceptual framework for structured thinking***
 
 This project best described with a selection of specific perspectives:
-- **For Scientific Research:** 
+- **For scientific research:** 
     "A usable vector space of cognition: 7 basis dimensions to decompose stages of a complex research workflow into actionable primitives."
-- **For Creative Time-management:** 
+- **For creative time-management:** 
     "A mental RPG system - stats and mechanics to gamify problem-solving in daily life."
-- *For Philosophers - [contribute](#Contribute) with :octocat: to make your unique application case*
+- *For philosophers - [contribute](#Contribute) with :octocat: to make your unique application case*
 ## Foreword
 #### What is a cognitive basis?
-First of all - regarding wording used, let's set the core declaration here. The phrase 'cognitive basis' is not a standard term in neurobiology or psychology domains, but [in my opinion](#Motivation) we can construct a meaningful definition by combining concepts from both cognitive science and linear algebra.
+First of all - regarding wording used, let's set the core declaration here. The phrase 'cognitive basis' is not a standard term in neurobiology or psychology domains, but [in my opinion](#Motivation) we can construct a meaningful explanation by combining concepts from both cognitive science and linear algebra.
 
-**Primary definition: Cognitive Basis - 'a set of orthogonal, interpretable dimensions that structurally decompose cognitive processes’**
+**Primary declaration: Cognitive Basis - 'a set of orthogonal, interpretable dimensions linearly decomposing cognitive processes’**
 
-*Alternative definition: a 'cognitive basis' can be understood as a set of fundamental cognitive structures or processes that serve as the building blocks for more complex cognitive functions.* 
+*Alternative wording: a 'cognitive basis' can be understood as a set of fundamental cognitive structures or processes that serve as the building blocks for more complex cognitive functions.* 
 *Just as a basis in linear algebra provides a set of vectors that can span a vector space, a cognitive basis provides a set of basic cognitive elements that can be combined to explain a wide range of cognitive phenomena.*
 
 For this specific cognitive basis each axis/dimension:
@@ -296,10 +296,9 @@ Each axis has a role / archetype baked in with an attribute that can be widely a
 
 If you found any ideas in this project worthy - do not hesitate, let me know what resonated! If you have decent confidence of what can be added/removed/modified - feel free to contribute to the template (but make sure to create a new branch before pull-request)!
 ### Useful links 🔗
-* [Google Slides](https://docs.google.com/presentation/d/1vQs5NB9WC_ceyZGvH8e-WtEDKA_uy5MAT5-RcDc3EtY/edit?usp=sharing) and my [Talk](https://rutube.ru/video/???/) presented @ [Data Fest 2025](https://ods.ai/events/fest2025-koronatech-nsk/schedule) ![[https://ods.ai/ods/logo.svg]]
+* Slightly outdated [Google Slides](https://docs.google.com/presentation/d/1vQs5NB9WC_ceyZGvH8e-WtEDKA_uy5MAT5-RcDc3EtY/edit?usp=sharing) and my [Talk](https://rutube.ru/video/???/) titled "Co-designing with LLM: a personalized cognitive engine architecture" presented @ [Data Fest 2025](https://ods.ai/events/fest2025-koronatech-nsk/schedule)  courtesy of <a href="https://ods.ai/"><img src="https://ods.ai/ods/logo.svg"/></a>
 * [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 * [Complete List of Faber-Castell Polychromos Colour Pencils](https://www.jennyscrayoncollection.com/2020/11/complete-list-of-faber-castell.html)
-* 
 
 [^0]: DeepSeek Chat, 2024 - Conversations on Cognitive Engine Framework.
 
