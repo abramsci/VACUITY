@@ -25,7 +25,7 @@ This project best described with a selection of specific perspectives:
 - *For philosophers - [contribute](#Contribute) with :octocat: to make your unique application case*
 ## Foreword
 #### What is a cognitive basis?
-First of all - regarding wording used, let's set the core declaration here. The phrase 'cognitive basis' is not a standard term in neurobiology or psychology domains, but [in my opinion](#Motivation) we can construct a meaningful explanation by combining concepts from both cognitive science and linear algebra.
+First of all - regarding terminology used, let's set the core declaration here. The phrase 'cognitive basis' is not a standard expression in neurobiology or psychology domains, but [in my opinion](#Motivation) one can construct a meaningful explanation by combining concepts from both cognitive science and linear algebra.
 
 **Primary declaration: Cognitive Basis - 'a set of orthogonal, interpretable dimensions linearly decomposing cognitive processes’**
 
@@ -40,9 +40,9 @@ For this specific cognitive basis each axis/dimension:
 #### Why 7-axis?
 There are 7 days of week - near-universal cultural artifact rooted in the naked-eye observation of celestial bodies. Aside of that, this number has scientifically sound reasons - one of the most cited articles in psychology[^1] ironically plays with it's "magical" nature rooted in our human capacity for processing information.
 #### How to use this repository?
-On a practical note, this repository has two main goals: 
-- **(A)** introduce development of a particular cognitive basis to a broad community
-- **(B)** serve as template for a Knowledge Management System in the form of Obsidian Vault
+On a practical note, the repo has two main goals: 
+- **(A)** introduce development of a particular cognitive basis to the community
+- **(B)** serve as a template for a Knowledge Management System in the form of Obsidian Vault
 
 > [!TIP]
 > **If you just want to have an Obsidian vault set up and running**
@@ -60,11 +60,11 @@ On a practical note, this repository has two main goals:
 > 3. Select **Create a new repository**
 > 4. Choose the right **Owner** and **Visibility** (ex. personal private) 
 > 5. Type your repository name and add an optional description
-> 6. Create repository from template**
+> 6. **Create repository from template**
 > 7. Use your fresh repository the way you want it (open as Obsidian vault)!
 ## exploration 
 > ***The proactive engagement with the unknown to map possibilities*** 
-- **Operational Verbs = Observe, Gather, Survey** 
+- **Operational verbs = observe, gather, survey** 
 - **Role = The Pioneer** scouts uncharted territory revealing terrain and resources - bridging traditional cartography and modern LLM pretraining scrapers. 
 - **Metaphor = Like the Sun needs space to emit unfiltered photons across all wavelengths, Exploration** requires deliberate entropy increase to obtain raw stimuli from environnement - whether in form of literature reviews, dataset foraging, or fieldwork and expeditions
 - **Physics anchoring (over/under risks):** 
@@ -79,14 +79,14 @@ On a practical note, this repository has two main goals:
 	- Data acquisition, broad literature surveying before topic crystallization
 	- Web-scraping, Monte Carlo methods for parameter space sampling
 - **Daily life activities:** 
-	- **Field Journal**: Sketching unexpected observations during commutes
+	- *"Field Journal"*: Sketching unexpected observations during commutes
 	- *"Serendipity Walks"*: 60-minute urban explorations with no predetermined route
 - **RPG attribute = vitality (`Vit`):** 
 	- Physical/mental stamina for discovery
 	- *"Pathfinder Bonus"*: XP for documenting dead ends (negative results as waypoints)  
 ## definition 
 > ***The sustained effort to anchor chaos with resonant structures*** 
-- **Operational Verbs = Structure, Anchor, Tune** 
+- **Operational verbs = structure, anchor, tune** 
 - **Role = The Composer** organizes elements into harmonic systems to tune processes - mirroring a symphony’s score or a lunisolar calendar.
 - **Metaphor = Like the Moon needs gravity and cycling movement to create tidal forces, Definition** requires rhythmic order to invoke feedback loops - whether in code architecture, research protocols, or daily rituals. 
 - **Physics anchoring (over/under risks):** 
@@ -101,14 +101,14 @@ On a practical note, this repository has two main goals:
 	- Arranging time and efforts, enforcing protocols, journaling progress
 	- Version control, commits regularity, CI/CD pipelines with resonating intervals 
 - **Daily life activities:** 
-	- *Tidal Audits*: Regular review of personal/system rhythms
-	- *Year/Month/Week Mapping*: Aligning tasks with different scale time-frames  
+	- *"Tidal Audits"*: Regular review of personal/system rhythms
+	- *"Year/Month/Week Mapping"*: Aligning tasks with different scale time-frames  
 - **RPG attribute = aplomb (`Apl`):**
 	- Grace under pressure, disciplined focus
 	- *"Resonant Lock"*: Bonus XP for protocols requiring zero mid-sprint adjustments  
 ## negotiation 
 > ***The dynamic balancing of competing inputs through collaborative tension*** 
-- **Operational Verbs = Discuss, Trade, Influence** 
+- **Operational verbs = discuss, trade, influence** 
 - **Role = The Mediator** facilitates energy exchange to obtain equilibrium compromise - bridging UN mediators (human) and RL reward-shaping algorithms (AI). 
 - **Metaphor = Like the Fire needs compassion to warm and protect, not burn or destroy, Negotiation** requires temperature scaling to modulate conflicts - whether in team debates, stakeholder tradeoffs, or neural network loss functions. 
 - **Physics anchoring (over/under risks):** 
@@ -123,14 +123,14 @@ On a practical note, this repository has two main goals:
 	- Peer review rebuttals with conflict resolution frameworks
 	- Hyperparameter tuning (balancing precision/recall tradeoffs)
 - **Daily life activities:** 
-	- **Equilibrium Sprints**: 25-minute mediation sessions for team alignment
-	- **Tradeoff Journal**: Documenting compromise outcomes and lessons
+	- *"Equilibrium Sprints"*: 25-minute mediation sessions for team alignment
+	- *"Tradeoff Journal"*: Documenting compromise outcomes and lessons
 - **RPG attribute = compassion (`Com`):** 
 	- Assertiveness and transparency in communication
 	- *"Catalyst Points"*: Bonus XP for resolving conflicts that improve outcomes  
 ## specification 
 > ***The precise reduction of ambiguity into actionable representations*** 
-- **Operational Verbs = Process, Filter, Categorize** 
+- **Operational verbs = process, filter, categorize** 
 - **Role = The Librarian** compresses information to diamond-clear essence - mirroring intellectual erudition and precise focus akin to a data scientist cleaning datasets or debugging. 
 - **Metaphor = Like the Water needs surface tension to form drops instead of spreading out, Specification** requires precision of limitations to shape ambiguity of complexity into its essential features - whether pruned datasets, debugged code, or taxonomies. 
 - **Physics anchoring (over/under risks):** 
@@ -145,16 +145,16 @@ On a practical note, this repository has two main goals:
 	- Methodological rigor checks, instrument calibration, citation chain tracing
 	- Debugging pipelines (unit test coverage), feature selection for ML models
 - **Daily life activities:** 
-	- **Vault Pruning**: 20-minute weekly notes cleanup (dead-link removal)
-	- **Taxonomy Sprints**: Timed sessions to classify pending items (emails, tasks)
+	- *"Vault Pruning"*: 20-minute weekly notes cleanup (dead-link removal)
+	- *"Taxonomy Sprints"*: Timed sessions to classify pending items (emails, tasks)
 - **RPG attribute = understanding (`Und`):** 
 	- Factual erudition, intellectual precision of knowledge
 	- *"Lens Clarity"*: Bonus XP for documenting a simplification that preserved fidelity
 ## generation 
 > ***The iterative construction of novel solutions through systematic recombination*** 
-- **Operational Verbs = Model, Iterate, Prototype** 
+- **Operational verbs = model, iterate, prototype** 
 - **Role = The Innovator** diverges branches of possibility and stimulates growth - bridging nature’s recombinant strategies (pollination, meiosis) and generative adversarial networks. 
-- **Metaphor = Like the Tree needs a path to branch with unpredictable growth fruition, **Generation** requires iterative force application to create candidate solutions by permuting components along possible trajectories - whether hypotheses, designs, or workflows. 
+- **Metaphor = Like the Tree needs a path to branch with unpredictable growth fruition, Generation** requires iterative force application to create candidate solutions by permuting components along possible trajectories - whether hypotheses, designs, or workflows. 
 - **Physics anchoring (over/under risks):** 
 	- ***α* ≡ action** → Work expended to traverse solution-space trajectories
 	- ***α* ↑↑ ≡ over-grown** → Idea sprawl (divergent paths)
@@ -167,14 +167,14 @@ On a practical note, this repository has two main goals:
 	- Reproducible automation, paper results drafting
 	- Automated idea expansion using LLM prompt chaining
 - **Daily life activities:** 
-	- **Sketch-storming:** 5-minute timed doodles of a problem
-	- *"Morpho-Grid*: Plot attributes of a problem ("What if X: fast + cheap + offline?")
+	- *"Sketch-storming"*: 5-minute timed doodles of a problem
+	- *"Morpho-Grid"*: Plot attributes of a problem ("What if X: fast + cheap + offline?")
 - **RPG attribute = inventiveness (`Inv`):** 
 	- Creative problem-solving, diverse originality
 	- *"Mutation Points"*: Bonus XP for pursuing the weirdest viable idea
 ## revelation 
 > ***The emergent recognition of undiscovered through analysis and perspective shifts*** 
-- **Operational Verbs = Visualize, Reframe, Analyze** 
+- **Operational verbs = visualize, reframe, analyze** 
 - **Role = The Engraver** exposes hidden connection by carving new perspectives - linking art with engineering and science (etching in semiconductor industry). 
 - **Metaphor = Like the Metal needs polishing to shine and show its crystalline structure, Revelation** requires iterative refinement from different angles to uncover jolting contrast of recognizable value - whether high-quality figures or fine-tuned attention maps. 
 - **Physics anchoring (over/under risks):** 
@@ -189,14 +189,14 @@ On a practical note, this repository has two main goals:
 	- Applying statistical filters to isolate significant variables
 	- Debugging ML models via activation pattern visualization
 - **Daily life activities:** 
-	- **Negative Space Exercise**: Spend 10 minutes sketching only the gaps in a problem
-	- **Error Ledger:** Document and categorize misjudgments to reveal cognitive biases
+	- *"Negative Space Exercise"*: Spend 10 minutes sketching only the gaps in a problem
+	- *"Error Ledger"*: Document and categorize misjudgments to reveal cognitive biases
 - **RPG attribute = temperance (`Tem`):** 
 	- Balanced skepticism and openness when detecting patterns
 	- *"Chisel Mastery"*: Bonus XP for correcting a false positive with evidence
 ## integration 
 > ***The synthesis of knowledge into cohesive outputs through strategic patience***
-- **Operational Verbs = Compose, Stabilize, Ground** 
+- **Operational verbs = compose, stabilize, ground** 
 - **Role = The Farmer** grounds the mind at rest and harvests knowledge yield - mirroring crop rotation's idle fields with active cultivation to sustain a long-term productivity. 
 - **Metaphor = Like the Earth needs time to consolidate scattered elements into fertile soil, Integration** requires some pause to gather fragmented insights and synthesize them in a stable consolidated form - whether papers, repositories, or knowledge bases. 
 - **Physics Anchoring (over/under risks):** 
@@ -207,15 +207,15 @@ On a practical note, this repository has two main goals:
 	- **Composing:** Natural non-forced synthesis and knowledge integration
 	- **Stabilizing:** Mental energy recovery (like soil rebuilding nutrients)
 	- **Grounding:** Cozy leisure activities (fiction literature, video-games, movies)
-- **Research/development examples:** 
-    - Final manuscript polishing with "fresh eyes" after a rest period
-    - Building a reproducible pipeline (like Docker containers for peer replication)
+- **Research/development examples:**
+	- Final manuscript polishing with "fresh eyes" after a rest period
+	- Building a reproducible pipeline (like Docker containers for peer replication)
 - **Daily life activities:** 
-    - **Weekly Ritual:** Light (30-min) notes cultivation (reading, tagging, no writing)
-    - **Analog Grounding:** Nature walks, sketching by hand, musical instrument
-- **RPG attribute = yielding (`Yld`):** 
+	- *"Weekly Ritual"*: Light (30-min) notes cultivation (reading, tagging, no writing)
+	- *"Analog Grounding"*: Nature walks, sketching by hand, musical instrument
+- **RPG attribute = yielding (`Yld`):**
 	- Patience to let insights mature without premature synthesis
-    - *"Compost Bonus"*: Reward XP for revisiting old notes to spark new connections
+	- *"Compost Bonus"*: Reward XP for revisiting old notes to spark new connections
 ## Symbolism 
 The whole project is very much an attempt of philosophical reflection, so it should be taken with a grain of rational salt. Some argumentation may be rather subjective - constructive criticism is very welcomed in GitHub Discussions!
 > [!CAUTION]
@@ -284,9 +284,9 @@ The whole project is very much an attempt of philosophical reflection, so it sho
 > **Foreword from the initial draft human author (Sergei Abramenkov, PhD)**
 > 
 > Various math courses I had to take during university education did not get stuck in my head as fully and clearly as I would prefer. Still, I was really affected by a single simple idea presented throughout the major part of mathematics. To me it became the most important principle way beyond math itself - it formed my outlook on any complex problem in general. Underlying concept for this principle/idea is called ***basis*** and that is exactly as it presented in [linear algebra](https://en.wikipedia.org/wiki/Basis_(linear_algebra)): **a set of axis in a vector space that allows its elements to be written as a finite linear combination of these axis unit vectors**.
-
-The root philosophical idea of making a personal cognitive basis had sparked during the second year of my postgraduate studies (late 2016). After years of struggling I somehow extracted it into the digital form and drafted 7 primary axis for my personal cognitive basis. Essentially I iteratively sorted and resorted out key actions, directions and dimensions of day to day life experience, then arranged it on a foundation of physics metaphors and linear algebra concepts. While I tried my best to keep the obtained cognitive basis vectors rather universal - this whole system is still very much subjective. 
-Finally (only recently), I discovered that a Large Language Model (LLM) may help immensely with the daunting task of organizing raw thoughts formed by human natural intelligence into concise and beautiful form. So together with **DeepSeek-V3**[^0] we co-designing an updated and much more coherent system presented here. 
+>
+> The root philosophical idea of making a personal cognitive basis had sparked during the second year of my postgraduate studies (late 2016). After years of struggling I somehow extracted it into the digital form and drafted 7 primary axis for my personal cognitive basis. Essentially I iteratively sorted and resorted out key actions, directions and dimensions of day to day life experience, then arranged it on a foundation of physics metaphors and linear algebra concepts. While I tried my best to keep the obtained cognitive basis vectors rather universal - this whole system is still very much subjective.
+> Finally (only recently), I discovered that a Large Language Model (LLM) may help immensely with the daunting task of organizing raw thoughts formed by human natural intelligence into concise and beautiful form. So together with **DeepSeek-V3**[^0] we co-designing an updated and much more coherent system presented here. 
 ### What's next?
 Each axis has a role / archetype baked in with an attribute that can be widely applicable. Like a non-typical RPG* with 7 stats system *(VACUITY)*, or gamification of time-management in daily life, or (think of it!) key parameters for 7 agents forming a cognitive engine architecture with physics-based constrains! The elegance here lies in blending of intuitive graspable archetypes with potential for AI layer computational primitives. All this is **dangerously scalable***** with, for example, a cognitive matrix of interaction between these fundamental axis, or simply feeding this basis to LLM as a pre-context prompt. 
 
