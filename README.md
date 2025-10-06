@@ -302,7 +302,7 @@ Each axis has a role / archetype baked in with an attribute that can be widely a
 
 If you found any ideas in this project worthy - do not hesitate, let me know what resonated! If you have decent confidence of what can be added/removed/modified - feel free to contribute to the template (but make sure to create a new branch before pull-request)!
 ### Useful links / further reading🔗
-* Slightly outdated [Google Slides](https://docs.google.com/presentation/d/1vQs5NB9WC_ceyZGvH8e-WtEDKA_uy5MAT5-RcDc3EtY/edit?usp=sharing) and my [Talk](https://rutube.ru/video/???/) titled "Co-designing with LLM: a personalized cognitive engine architecture" presented @ [Data Fest 2025](https://ods.ai/events/fest2025-koronatech-nsk/schedule)  <a href="https://ods.ai/"><img src="https://ods.ai/ods/logo.svg"/></a>
+* Slightly outdated [Google Slides](https://docs.google.com/presentation/d/1vQs5NB9WC_ceyZGvH8e-WtEDKA_uy5MAT5-RcDc3EtY/edit?usp=sharing) and my [Talk](https://rutube.ru/video/51ae33308ca712e83ca291cf8436471a/) titled "Co-designing with LLM: a personalized cognitive engine architecture" presented @ [Data Fest 2025](https://ods.ai/events/fest2025-koronatech-nsk/schedule)  <a href="https://ods.ai/"><img src="https://ods.ai/ods/logo.svg"/></a>
 - [Seven Dimensions](https://www.youtube.com/watch?v=bI-FS7aZJpY) - a video-essay by Kieran Borovac on YouTube
 * [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 * [Complete List of Faber-Castell Polychromos Colour Pencils](https://www.jennyscrayoncollection.com/2020/11/complete-list-of-faber-castell.html)
