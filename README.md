@@ -260,7 +260,7 @@ The whole project is very much an attempt of philosophical reflection, so it sho
 	- Co + SiO2 smalt (Renaissance Europe’s cheap ultramarine)
 	- Sky’s color due to Rayleigh scattering is why we evolved trichromatic vision
 	- Globally "favorite" color, associated with trust which is exploited by corporate logos
-### 木 Wood 🌿 (#278A46) 
+### 木 Tree 🌿 (#278A46) 
 - **Kanji = 木 (moku / ki)** → Thursday
 - **Element = Wood** → Divergent branches and roots
 - **Icon/emoji = :herb:** → Sustained organic growth, leaf of [Generation](#🌿generation) 
