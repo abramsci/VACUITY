@@ -2,11 +2,12 @@
   <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/ObsidianVault-Template-9A69AD?logo=obsidian"/></a>
 </div>
 
-The table below gives a summary view of 7 basis concepts as columns with operational verbs, roles and different anchors arranged by rows. Click on any axis for quick jump to a more detailed essay.
+The table below gives a summary view of 7 basis concepts as columns with operational verbs, roles and different anchors arranged by rows. Click on any axis for a quick jump to its more detailed essay.
+This template maps each axis to a pre-configured top-level folder structure with root notes and custom CSS snippet (`.obsidian/snippets/GRINDES.css`) to add Obsidian vault some aesthetics.
 
 |          [Explora∫n](#exploration)          |           [Defini∫n](#definition)           |         [Negotia∫n](#negotiation)         |       [Specifica∫n](#specification)       |          [Genera∫n](#generation)          |          [Revela∫n](#revelation)          |         [Integra∫n](#integration)         |
 | :-----------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |
-|          observe, gather, survey,           |          structure, anchor, tune,           |        discuss, trade, influence,         |       process, filtrate, categorize       |        model, iterate, prototype,         |       visualize, reframe, analyze,        |       condence, stabilize, ground,        |
+|          observe, gather, survey,           |          structure, anchor, tune,           |        discuss, trade, influence,         |      process, filtrate, categorize,       |        model, iterate, prototype,         |       visualize, reframe, analyze,        |       condence, stabilize, ground,        |
 |                   Pioneer                   |                  Composer                   |                 Mediator                  |                 Archivist                 |                 Innovator                 |                 Engraver                  |                  Farmer                   |
 |                 **Sunday**                  |                 **Monday**                  |                **Tuesday**                |               **Wednesday**               |               **Thursday**                |                **Friday**                 |               **Saturday**                |
 |             💥 Sun *σ* (sigma)              |              🎵 Moon *ν* (nu)               |            ♨️ Fire *θ* (theta)            |           🌀 Water *γ* (gamma)            |            🌿 Tree *α* (alpha)            |             ⚡ Metal *φ* (phi)             |            ⏳ Earth *ζ* (zeta)             |
@@ -14,15 +15,19 @@ The table below gives a summary view of 7 basis concepts as columns with operati
 | <span style="color:#F47933  ">F47933</span> | <span style="color:#9A69AD  ">9A69AD</span> | <span style="color:#E42F44">E42F44</span> | <span style="color:#056AB5">056AB5</span> | <span style="color:#278A46">278A46</span> | <span style="color:#FFC220">FFC220</span> | <span style="color:#9A734A">9A734A</span> |
 |               **0** `Vit` *V*               |               **1** `Apl` *A*               |              **2** `Com` *C*              |              **3** `Und` *U*              |              **4** `Inv` *I*              |              **5** `Tem` *T*              |              **6** `Yld` *Y*              |
 
-# GRINDES - A Cognitive Basis 💭
+# GRINDES Cognitive Basis 💭
 > ***A 7-axis conceptual framework for structured thinking***
 
 This project best described with a selection of specific perspectives:
-- **For scientific research:** 
-    "A usable vector space of cognition: 7 basis dimensions to decompose stages of a complex research workflow into actionable primitives."
-- **For creative time-management:** 
-    "A mental RPG system - stats and mechanics to gamify problem-solving in daily life."
-- *For philosophers - [contribute](#Contribute) with :octocat: to make your unique application case*
++ **For scientific research in general:** 
+    "A functional vector space of cognition: 7 basis dimensions to decompose stages of a complex research workflow into actionable primitives."
+	+ **Example A: ["Git Experiments"](https://github.com/seismonia/dataset.template) `.metadata` folder structure** 
+		Sometimes personal philosophical studies like this one, may deeply influence professional development - let's say give a backbone of structure for another template:)
+	+ **Example B: "PhD.src" - keep commits coming, save your thesis from chaos**
+		To be revealed.
++ **For creative time-management:** 
+    "A mental RPG system - stats and mechanics to gamify daily life problem-solving."
++ *For philosophers - [contribute](#Contribute) with :octocat: to make your unique application case*
 ## Foreword
 #### What is a cognitive basis?
 First of all - regarding terminology used, let's set the core declaration here. The phrase 'cognitive basis' is not a standard expression in neurobiology or psychology domains, but [in my opinion](#Motivation) one can construct a meaningful explanation by combining concepts from both cognitive science and linear algebra.
@@ -134,7 +139,7 @@ On a practical note, the repo has two main goals:
 - **Role = The Librarian** compresses information to diamond-clear essence - mirroring intellectual erudition and precise focus akin to a data scientist cleaning datasets or debugging. 
 - **Metaphor = Like the Water needs surface tension to form drops instead of spreading out, Specification** requires precision of limitations to shape ambiguity of complexity into its essential features - whether pruned datasets, debugged code, or taxonomies. 
 - **Physics anchoring (over/under risks):** 
-	- ***γ* ≡ surface tension*** → Information boundary strength
+	- ***γ* ≡ surface tension** → Information boundary strength
 	- ***γ* ↑↑ ≡ over-constrained** → Sterile hyper-focus (brittle filming)
 	- ***γ* ↓↓ ≡ unbounded** → Noise sprawl (ruptured droplets)
 - **Day = Wednesday (水曜日)** as *"distillation day"* - focused on: 
@@ -223,7 +228,7 @@ The whole project is very much an attempt of philosophical reflection, so it sho
 > 
 > Professional employment at scientific research institutes and programming/engineering experience shaped me to reject any smell of pseudo-science. Thus, a more objective part presented above should be considered the cognitive basis core.
 > Symbolism presented in the section below is a particularly tricky part as it contains much more subjective view dictated by my innate passion for learning languages and cultures outside my native one. Being a significant part of my personal cognition, it obviously affected development of this basis. However, it should be viewed as a supplementary information - useful to better understand minor reasoning factors, but avoiding unnecessary overreaching. 
-### 日 Sun 💥 #F47933  
+### 日 Sun 💥 (#F47933) 
 - **Kanji = 日 (hi / nichi)** → Sunday
 - **Element = Sun** → Low-entropy pump as a source driving exploration
 - **Icon/emoji = :collision:** → Intentional entropy increase, light of [Exploration](#exploration) 
@@ -231,7 +236,7 @@ The whole project is very much an attempt of philosophical reflection, so it sho
 	- First synthetic pigment replacing toxic mercury-based vermilion
 	- Used in heatmaps for high-entropy zones (raw data histograms)
 	- In Shinto, represents Amaterasu's life-giving chaos
-### 月 Moon 🎵 #9A69AD  
+### 月 Moon 🎵 (#9A69AD) 
 - **Kanji = 月 (tsuki / getsu)** → Monday
 - **Element = Moon** → Gravitational structuring of time/processes
 - **Icon/emoji = :musical_note:** → Lunar rhythmic dominance, music of [Definition](#definition) 
@@ -239,7 +244,7 @@ The whole project is very much an attempt of philosophical reflection, so it sho
 	- An aniline dye derivative synthetic pigment replacing costly natural one
 	- Used in NASA’s Lunar Reconnaissance Orbiter maps
 	- Historically considered royal or imperial in the West, authority in modern UX design
-### 火 Fire ♨️ #E42F44  
+### 火 Fire ♨️ (#E42F44) 
 - **Kanji = 火 (ho / ka)** → Tuesday
 - **Element = Fire** → Dual nature of warmth (collaboration) and destruction (conflict) 
 - **Icon/emoji = :hotsprings:** → Ideas transformation, heat of [Negotiation](#negotiation) 
@@ -247,7 +252,7 @@ The whole project is very much an attempt of philosophical reflection, so it sho
 	- Mimics iron oxide pigment in hot-spring sediments
 	- First color infants perceive and the most cross-culturally salient (blood, danger, love)
 	- Used historically in Japanese *hanko* seals (binding agreements)
-### 水 Water 🌀 #056AB5  
+### 水 Water 🌀 (#056AB5) 
 - **Kanji = 水 (sui / mizu)** → Wednesday
 - **Element = Water** → Adaptive yet boundary-respecting (takes container shape)
 - **Icon/emoji = :cyclone:** → Water wears away stone, vortex of [Specification](#specification) 
@@ -255,7 +260,7 @@ The whole project is very much an attempt of philosophical reflection, so it sho
 	- Co + SiO2 smalt (Renaissance Europe’s cheap ultramarine)
 	- Sky’s color due to Rayleigh scattering is why we evolved trichromatic vision
 	- Globally "favorite" color, associated with trust which is exploited by corporate logos
-### 木 Wood 🌿 #278A46
+### 木 Wood 🌿 (#278A46) 
 - **Kanji = 木 (moku / ki)** → Thursday
 - **Element = Wood** → Divergent branches and roots
 - **Icon/emoji = :herb:** → Sustained organic growth, leaf of [Generation](#🌿generation) 
@@ -263,7 +268,7 @@ The whole project is very much an attempt of philosophical reflection, so it sho
 	- Botanical illustration pigment (used by Darwin for species sketches)
 	- Avoids "toxic green" clichés - muted yet fertile
 	- In Islam, green is sacred; in Western traffic lights, it’s "go
-### 金 Metal ⚡ #FFC220
+### 金 Metal ⚡ (#FFC220) 
 - **Kanji = 金 (kin / kane)** → Friday
 - **Element = Metal** → Hardness and conductivity enables fine-tuning
 - **Icon/emoji = :zap:** → Spark of insight, thunderbolt of [Revelation](#⚡revelation) 
@@ -271,7 +276,7 @@ The whole project is very much an attempt of philosophical reflection, so it sho
 	- CdS + ZnS yellows are opaque and fiery (Van Gogh’s sunflowers incarnate)
 	- High luminance efficiency - reason why taxis and warning signs use it
 	- In China, yellow was imperial, in the West - optimism and psychiatry (apophenia)
-### 土 Earth ⏳ #9A734A
+### 土 Earth ⏳ (#9A734A) 
 - **Kanji = 土 (tou / tsuchi)** → Saturday
 - **Element = Earth** → Static, receptive nature embodies passive synthesis
 - **Icon/emoji = :hourglass:** → Strategic turn, sand flow of [Integration](#⏳integration) 
@@ -286,9 +291,9 @@ The whole project is very much an attempt of philosophical reflection, so it sho
 > Various math courses I had to take during university education did not get stuck in my head as fully and clearly as I would prefer. Still, I was really affected by a single simple idea presented throughout the major part of mathematics. To me it became the most important principle way beyond math itself - it formed my outlook on any complex problem in general. Underlying concept for this principle/idea is called ***basis*** and that is exactly as it presented in [linear algebra](https://en.wikipedia.org/wiki/Basis_(linear_algebra)): **a set of axis in a vector space that allows its elements to be written as a finite linear combination of these axis unit vectors**.
 >
 > The root philosophical idea of making a personal cognitive basis had sparked during the second year of my postgraduate studies (late 2016). After years of struggling I somehow extracted it into the digital form and drafted 7 primary axis for my personal cognitive basis. Essentially I iteratively sorted and resorted out key actions, directions and dimensions of day to day life experience, then arranged it on a foundation of physics metaphors and linear algebra concepts. While I tried my best to keep the obtained cognitive basis vectors rather universal - this whole system is still very much subjective.
-> Finally (only recently), I discovered that a Large Language Model (LLM) may help immensely with the daunting task of organizing raw thoughts formed by human natural intelligence into concise and beautiful form. So together with **DeepSeek-V3**[^0] we co-designing an updated and much more coherent system presented here. 
+> Finally (only recently), I discovered that a Large Language Model (LLM) may help immensely with the daunting task of organizing raw thoughts formed by human natural intelligence into concise and beautiful form. So together with **DeepSeek-V3**[^2] we co-designing an updated and much more coherent system presented here. 
 ### What's next?
-Each axis has a role / archetype baked in with an attribute that can be widely applicable. Like a non-typical RPG* with 7 stats system *(VACUITY)*, or gamification of time-management in daily life, or (think of it!) key parameters for 7 agents forming a cognitive engine architecture with physics-based constrains! The elegance here lies in blending of intuitive graspable archetypes with potential for AI layer computational primitives. All this is **dangerously scalable***** with, for example, a cognitive matrix of interaction between these fundamental axis, or simply feeding this basis to LLM as a pre-context prompt. 
+Each axis has a role / archetype baked in with an attribute that can be widely applicable. Like a non-typical RPG* with 7 stats system *(VACUITY)*, or gamification of time-management in daily life, or (think of it!) key parameters for 7 agents forming a cognitive engine architecture with physics-based constrains! The elegance here lies in blending of intuitive graspable archetypes with potential for AI layer computational primitives. All this is dangerously scalable** with, examples like creating a cognitive matrix of interaction between these fundamental axis, or simply feeding this basis to LLM as a pre-context prompt. But most importantly it can inspire you to better structure you own human thoughts! I least for it was game-changing in terms of productivity:)
 
 *P.S. Nod to Disco Elysium game mechanics with my deepest respect to people who designed it)* 
 
@@ -301,15 +306,17 @@ Each axis has a role / archetype baked in with an attribute that can be widely a
 > I intend to make few branches that for example include specific Obsidian files like a custom css-theme.
 
 If you found any ideas in this project worthy - do not hesitate, let me know what resonated! If you have decent confidence of what can be added/removed/modified - feel free to contribute to the template (but make sure to create a new branch before pull-request)!
-### Useful links / further reading🔗
-* Slightly outdated [Google Slides](https://docs.google.com/presentation/d/1vQs5NB9WC_ceyZGvH8e-WtEDKA_uy5MAT5-RcDc3EtY/edit?usp=sharing) and my [Talk](https://rutube.ru/video/51ae33308ca712e83ca291cf8436471a/) titled "Co-designing with LLM: a personalized cognitive engine architecture" presented @ [Data Fest 2025](https://ods.ai/events/fest2025-koronatech-nsk/schedule)  <a href="https://ods.ai/"><img src="https://ods.ai/ods/logo.svg"/></a>
-- [Seven Dimensions](https://www.youtube.com/watch?v=bI-FS7aZJpY) - a video-essay by Kieran Borovac on YouTube
-* [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
-* [Complete List of Faber-Castell Polychromos Colour Pencils](https://www.jennyscrayoncollection.com/2020/11/complete-list-of-faber-castell.html)
+### Useful links / further reading🔗 
 
-* Kotseruba, I., & Tsotsos, J. K. (2020) 40 years of cognitive architectures: core cognitive abilities and practical applications. Artificial Intelligence Review, 53 (1): 17-94. [https://arxiv.org/pdf/1610.08602](https://arxiv.org/pdf/1610.08602)
-* Grundspenkis, J. (2007) Agent based approach for organization and personal knowledge modelling: knowledge management perspective. Journal of Intelligent Manufacturing, 18 (4): 451–457 DOI:10.1007/s10845-007-0052-6
++ [Google Slides](https://docs.google.com/presentation/d/1vQs5NB9WC_ceyZGvH8e-WtEDKA_uy5MAT5-RcDc3EtY/edit?usp=sharing) - I'm working on updating it but the core editing is done in this repository with Obsidian.
++ [Video](https://rutube.ru/video/51ae33308ca712e83ca291cf8436471a/) of my talk titled "Co-designing with LLM: a personalized cognitive engine architecture" presented @ [Data Fest 2025](https://ods.ai/events/fest2025-koronatech-nsk/schedule). The talk was given in English with rather decent grammar and vocabulary but I failed to deliver "The Why?" to the audience and overall flow was not very good. Also, slides in the talk are slightly outdated but the core essence remains the same. 
 
-[^0]: DeepSeek Chat, 2024 - Conversations on Cognitive Engine Framework.
++ [Seven Dimensions](https://www.youtube.com/watch?v=bI-FS7aZJpY) - a video-essay by Kieran Borovac on YouTube that I highly recommend to get a reason behind anchoring cognitive axis to physical dimensions.
++ [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908) - useful everyday reference to have.
+
++ Kotseruba, I., & Tsotsos, J. K. (2020) 40 years of cognitive architectures: core cognitive abilities and practical applications. Artificial Intelligence Review, 53 (1): 17-94. [https://arxiv.org/pdf/1610.08602](https://arxiv.org/pdf/1610.08602)
++ Grundspenkis, J. (2007) Agent based approach for organization and personal knowledge modelling: knowledge management perspective. Journal of Intelligent Manufacturing, 18 (4): 451–457 [DOI:10.1007/s10845-007-0052-6](https://doi.org/10.1007/s10845-007-0052-6)
+
 [^1]: Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review. 63 (2): 81–97. DOI:10.1037/h0043158
+[^2]: DeepSeek Chat, 2024 - Conversations on Cognitive Engine Framework.
 

@@ -1,0 +1,147 @@
+/* Global font change "Iosevka Nerd Font" */
+body, html, text {
+  font-family: 'Monitorica', 'DejaVue Sans', sans-serif;
+}
+
+/* Hiding non-essential stuff */
+.welcome-screen-center__logo.virgil.welcome-screen-decor,
+.welcome-screen-center__heading.welcome-screen-decor.virgil,
+.welcome-screen-menu,
+.status-bar-item.plugin-sync,
+.status-bar-item.plugin-word-count,
+.empty-state-action-list > :nth-child(3),
+.empty-state-action-list > :nth-child(4) {
+    display: none !important;
+}
+
+.nav-file-title, .nav-folder-title, .nav-file-title-content {
+    white-space: normal;
+    font-size: 14px;
+}
+
+/* Two columns for properties */
+[data-type="markdown"] .metadata-properties {
+  display: grid;
+  grid: auto-flow / 40% 40% 20%;
+  gap: 3px 0;
+}
+[data-type="markdown"] .metadata-properties .metadata-property-value {
+  align-items: start;
+}
+body {
+  --metadata-label-width: 10em;
+}
+
+/* Bigger popover */
+.popover.hover-popover > .markdown-embed {
+    height: 100%;
+    max-height: 60vh;
+    max-width: 60vh;    
+    overflow: scroll;
+}
+
+
+/* Custom effects on the fixed folder structure */
+:root {
+  --folder-comments-height: 35px;
+  /* Seven basis colors */
+  --color-exploration: #F47933;
+  --color-definition: #9A69AD;
+  --color-negotiation: #E42F44;
+  --color-specification: #056AB5;
+  --color-generation: #278A46;
+  --color-revelation: #FFC220;
+  --color-integration: #9A734A;
+}
+
+.theme-dark {
+    --color-back: #575758;
+    --color-front: #FFF4D8;
+}
+
+.theme-light {
+    --color-back: #FFF4D8;
+    --color-front: #575758;
+}
+
+.tree-item-inner::after {
+  position: absolute;
+  font-size: 10px;
+  bottom: 4px;
+  left: 25px;
+  opacity: 75%;
+}
+
+/* Folder styling mixin - DRY approach */
+.nav-folder-title[data-path] {
+  font-weight: bold;
+  border-top: 2px solid;
+  border-left: 3px solid;
+}
+
+.nav-folder-title[data-path]:hover,
+.nav-folder-title[data-path]:hover {
+  font-weight: bold !important;
+}
+
+.nav-folder-title[data-path] + .nav-folder-children:hover,
+.nav-file-title[data-path]:hover {
+  border-color: inherit;
+}
+
+
+
+/* Individual folder configurations using nesting */
+[data-path="0.exploration"],
+[data-path="1.definition"],
+[data-path="2.negotiation"], 
+[data-path="3.specification"],
+[data-path="4.generation"],
+[data-path="5.revelation"],
+[data-path="6.integration"] {
+  .tree-item-inner {
+    height: var(--folder-comments-height);
+    
+    &::after {
+      color: var(--color-front);
+      font-weight: normal;
+      /* font-style: italic; */
+    }
+  }
+}
+
+/* Individual folder content description and colors */
+[data-path="0.exploration"] .tree-item-inner::after { content: "日 | observe, gather, survey | 💥"; }
+.nav-folder-title[data-path="0.exploration"] { color: var(--color-exploration); border-color: var(--color-exploration); }
+.nav-folder-title[data-path*="0.exploration"]:hover { color: var(--color-exploration) !important; }
+
+[data-path="1.definition"] .tree-item-inner::after { content: "月 | structure, anchor, tune | 🎵"; }
+.nav-folder-title[data-path="1.definition"] { color: var(--color-definition); border-color: var(--color-definition); }
+.nav-folder-title[data-path*="1.definition"]:hover { color: var(--color-definition) !important; }
+
+[data-path="2.negotiation"] .tree-item-inner::after { content: "火 | discuss, trade, influence | ♨️"; }
+.nav-folder-title[data-path="2.negotiation"] { color: var(--color-negotiation); border-color: var(--color-negotiation); }
+.nav-folder-title[data-path*="2.negotiation"]:hover { color: var(--color-negotiation) !important; }
+
+[data-path="3.specification"] .tree-item-inner::after { content: "火 | process, filtrate, categorize | 🌀"; }
+.nav-folder-title[data-path="3.specification"] { color: var(--color-specification); border-color: var(--color-specification); }
+.nav-folder-title[data-path*="3.specification"]:hover { color: var(--color-specification) !important; }
+
+[data-path="4.generation"] .tree-item-inner::after { content: "木 | model, iterate, prototype | 🌿"; }
+.nav-folder-title[data-path="4.generation"] { color: var(--color-generation); border-color: var(--color-generation); }
+.nav-folder-title[data-path*="4.generation"]:hover { color: var(--color-generation) !important; }
+
+[data-path="5.revelation"] .tree-item-inner::after { content: "金 | visualize, reframe, analyze | ⚡"; }
+.nav-folder-title[data-path="5.revelation"] { color: var(--color-revelation); border-color: var(--color-revelation); }
+.nav-folder-title[data-path*="5.revelation"]:hover { color: var(--color-revelation) !important; }
+
+[data-path="6.integration"] .tree-item-inner::after { content: "土 | condence, stabilize, ground | ⏳"; }
+.nav-folder-title[data-path="6.integration"] { color: var(--color-integration); border-color: var(--color-integration); }
+.nav-folder-title[data-path*="6.integration"]:hover { color: var(--color-integration) !important; }
+
+
+/* Decrease distraction from service folders */
+div[data-path='important-folder/annoying-subfolder'],
+div[data-path='important-folder/annoying-subfolder'] + div.nav-folder-children {
+  display: none;
+}
