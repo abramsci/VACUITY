@@ -1,0 +1,9 @@
+{
+  "showViewHeader": true,
+  "accentColor": "#9a69ad",
+  "enabledCssSnippets": [
+    "GRINDES"
+  ],
+  "baseFontSize": 14,
+  "theme": "moonstone"
+}
