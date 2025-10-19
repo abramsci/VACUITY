@@ -2,7 +2,7 @@
   <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/ObsidianVault-Template-9A69AD?logo=obsidian"/></a>
 </div>
 
-The table below gives a summary view of 7 basis concepts as columns with operational verbs, roles and different anchors arranged by rows. Click on any axis for a quick jump to its more detailed essay. This template maps each axis to a pre-configured top-level folder structure with root notes and custom CSS snippet to add Obsidian vault some aesthetics[^0]
+The table below gives a summary view of 7 basis concepts as columns with operational verbs, roles and different anchors arranged by rows. Click on any axis for a quick jump to its more detailed essay. This template maps each axis to a pre-configured top-level folder structure with root notes[^0] and custom CSS snippet to add Obsidian vault some aesthetics.
 
 |           [V (`Vit`)](#vitality)            |            [A (`Apl`)](#aplomb)             |         [C (`Com`)](#compassion)          |        [U (`Und`)](#understanding)        |        [I (`Inv`)](#inventiveness)        |         [T (`Tem`)](#temperance)          |          [Y (`Yld`)](#yielding)           |
 | :-----------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |
