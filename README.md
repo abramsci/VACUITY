@@ -9,12 +9,12 @@ This template maps each axis to a pre-configured top-level folder structure with
 |          [Explora∫n](#exploration)          |           [Defini∫n](#definition)           |         [Negotia∫n](#negotiation)         |       [Specifica∫n](#specification)       |          [Genera∫n](#generation)          |          [Revela∫n](#revelation)          |         [Integra∫n](#integration)         |
 | :-----------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |
 |          observe, gather, survey,           |          structure, anchor, tune,           |        discuss, trade, influence,         |       process, filtrate, classify,        |        model, iterate, prototype,         |       visualise, reframe, analyse,        |       condense, stabilise, ground,        |
-|                   Where?                    |                    When?                    |                    Who?                   |                   Which?                  |                    How?                   |                    Why?                   |                   What?                   |
+|                   Where?                    |                    When?                    |                   Who?                    |                  Which?                   |                   How?                    |                   Why?                    |                   What?                   |
 |                 **Sunday**                  |                 **Monday**                  |                **Tuesday**                |               **Wednesday**               |               **Thursday**                |                **Friday**                 |               **Saturday**                |
 |             💥 Sun *σ* (sigma)              |              🎵 Moon *ν* (nu)               |            ♨️ Fire *θ* (theta)            |           🌀 Water *γ* (gamma)            |            🌿 Wood *α* (alpha)            |             ⚡ Metal *φ* (phi)             |            ⏳ Earth *ζ* (zeta)             |
 |                  日 orange                   |                  月 violet                   |                   火 red                   |                  水 blue                   |                  木 green                  |                 金 yellow                  |                  土 brown                  |
 | <span style="color:#F47933  ">F47933</span> | <span style="color:#9A69AD  ">9A69AD</span> | <span style="color:#E42F44">E42F44</span> | <span style="color:#056AB5">056AB5</span> | <span style="color:#278A46">278A46</span> | <span style="color:#FFC220">FFC220</span> | <span style="color:#9A734A">9A734A</span> |
-|         [0---V (`Vit`)](0---V/0---V)        |         [1---A (`Apl`)](1---A/1---A)        |       [2---C (`Com`)](2---C/2---C)        |       [3---U (`Und`)](3---U/3---U)        |       [4---I (`Inv`)](4---I/4---I)        |        [5---T (`Tem`)](5---T/5---T)       |         [6---Y (`Yld`)](6---Y/6---Y)      |
+|          [`0---V`](0---V/0---V.md)          |          [`1---A`](1---A/1---A.md)          |         [`2---C`](2---C/2---C.md)         |         [`3---U`](3---U/3---U.md)         |         [`4---I`](4---I/4---I.md)         |         [`5---T`](5---T/5---T.md)         |         [`6---Y`](6---Y/6---Y.md)         |
 
 ## 🎮 VACUITY 🎲
 > ***A 7-axis cognitive basis for structured thinking***
@@ -24,13 +24,13 @@ I primarily use it as a *narrative framework for gamified cognition*.
 Each axis has a role / archetype baked in with an attribute that can be widely applicable. 
 The elegance here lies in blending of (human-intuitive) graspable archetypes with the potential for AI-agents. 
 Here are some examples how I use it:
-+ **As [Filepath Grammar Rationale](#Appendix)**: 
-+ **In Creative Writing & Worldbuilding:** 7 axes as a character development framework 
 + **In Personal Productivity:** Transform daily to-do list into a quest log and journal progress notes in the Obsidian vault.
++ **As [Filepath Grammar Rationale](#Appendix)**: to conquer digital chaos both in professional workspace and across personal files.
++ **In Creative Writing & Worldbuilding:** 7 axes as a character development framework. 
 + **As AI Agent Architecture:** Each axis can define a specialized module or "cognitive primitive" for a dedicated AI-agent where attributes (`Vit`, `Apl`, etc.) work as adjustable parameters that govern its behaviour, creating a transparent and interpretable architecture for complex reasoning.
 
 Most importantly it can inspire you to maybe invent a better system or at least step on the path to structure you own human (or AI) thoughts! 
-At least for me it was game-changing in terms of productivity.
+At least for me it was game-changing in terms of life fulfillment (and somewhat repaired my productivity as well).
 
 
 ### Why 7-axis?
