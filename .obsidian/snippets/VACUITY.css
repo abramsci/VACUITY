@@ -78,13 +78,13 @@ body {
   border-color: inherit;
 }
 
-[data-path="0@V"],
-[data-path="1@A"],
-[data-path="2@C"], 
-[data-path="3@U"],
-[data-path="4@I"],
-[data-path="5@T"],
-[data-path="6@Y"] {
+[data-path="0---V"],
+[data-path="1---A"],
+[data-path="2---C"], 
+[data-path="3---U"],
+[data-path="4---I"],
+[data-path="5---T"],
+[data-path="6---Y"] {
   .tree-item-inner {
     height: var(--folder-comments-height);
     
@@ -97,30 +97,30 @@ body {
 }
 
 /* Individual folder content description and colors */
-[data-path="0@V"] .tree-item-inner::after { content: "日 | observe, gather, survey | 💥"; }
-.nav-folder-title[data-path="0@V"] { color: var(--color-exploration); border-color: var(--color-exploration); }
-.nav-folder-title[data-path*="0@V"]:hover { color: var(--color-exploration) !important; }
+[data-path="0---V"] .tree-item-inner::after { content: "日 | observe, gather, survey | 💥"; }
+.nav-folder-title[data-path="0---V"] { color: var(--color-exploration); border-color: var(--color-exploration); }
+.nav-folder-title[data-path*="0---V"]:hover { color: var(--color-exploration) !important; }
 
-[data-path="1@A"] .tree-item-inner::after { content: "月 | structure, anchor, tune | 🎵"; }
-.nav-folder-title[data-path="1@A"] { color: var(--color-definition); border-color: var(--color-definition); }
-.nav-folder-title[data-path*="1@A"]:hover { color: var(--color-definition) !important; }
+[data-path="1---A"] .tree-item-inner::after { content: "月 | structure, anchor, tune | 🎵"; }
+.nav-folder-title[data-path="1---A"] { color: var(--color-definition); border-color: var(--color-definition); }
+.nav-folder-title[data-path*="1---A"]:hover { color: var(--color-definition) !important; }
 
-[data-path="2@C"] .tree-item-inner::after { content: "火 | discuss, trade, influence | ♨️"; }
-.nav-folder-title[data-path="2@C"] { color: var(--color-negotiation); border-color: var(--color-negotiation); }
-.nav-folder-title[data-path*="2@C"]:hover { color: var(--color-negotiation) !important; }
+[data-path="2---C"] .tree-item-inner::after { content: "火 | discuss, trade, influence | ♨️"; }
+.nav-folder-title[data-path="2---C"] { color: var(--color-negotiation); border-color: var(--color-negotiation); }
+.nav-folder-title[data-path*="2---C"]:hover { color: var(--color-negotiation) !important; }
 
-[data-path="3@U"] .tree-item-inner::after { content: "火 | process, filtrate, categorize | 🌀"; }
-.nav-folder-title[data-path="3@U"] { color: var(--color-specification); border-color: var(--color-specification); }
-.nav-folder-title[data-path*="3@U"]:hover { color: var(--color-specification) !important; }
+[data-path="3---U"] .tree-item-inner::after { content: "火 | process, filtrate, categorize | 🌀"; }
+.nav-folder-title[data-path="3---U"] { color: var(--color-specification); border-color: var(--color-specification); }
+.nav-folder-title[data-path*="3---U"]:hover { color: var(--color-specification) !important; }
 
-[data-path="4@I"] .tree-item-inner::after { content: "木 | model, iterate, prototype | 🌿"; }
-.nav-folder-title[data-path="4@I"] { color: var(--color-generation); border-color: var(--color-generation); }
-.nav-folder-title[data-path*="4@I"]:hover { color: var(--color-generation) !important; }
+[data-path="4---I"] .tree-item-inner::after { content: "木 | model, iterate, prototype | 🌿"; }
+.nav-folder-title[data-path="4---I"] { color: var(--color-generation); border-color: var(--color-generation); }
+.nav-folder-title[data-path*="4---I"]:hover { color: var(--color-generation) !important; }
 
-[data-path="5@T"] .tree-item-inner::after { content: "金 | visualize, reframe, analyze | ⚡"; }
-.nav-folder-title[data-path="5@T"] { color: var(--color-revelation); border-color: var(--color-revelation); }
-.nav-folder-title[data-path*="5@T"]:hover { color: var(--color-revelation) !important; }
+[data-path="5---T"] .tree-item-inner::after { content: "金 | visualize, reframe, analyze | ⚡"; }
+.nav-folder-title[data-path="5---T"] { color: var(--color-revelation); border-color: var(--color-revelation); }
+.nav-folder-title[data-path*="5---T"]:hover { color: var(--color-revelation) !important; }
 
-[data-path="6@Y"] .tree-item-inner::after { content: "土 | condence, stabilize, ground | ⏳"; }
-.nav-folder-title[data-path="6@Y"] { color: var(--color-integration); border-color: var(--color-integration); }
-.nav-folder-title[data-path*="6@Y"]:hover { color: var(--color-integration) !important; }
+[data-path="6---Y"] .tree-item-inner::after { content: "土 | condence, stabilize, ground | ⏳"; }
+.nav-folder-title[data-path="6---Y"] { color: var(--color-integration); border-color: var(--color-integration); }
+.nav-folder-title[data-path*="6---Y"]:hover { color: var(--color-integration) !important; }

@@ -6,16 +6,15 @@ The table below gives a summary view of 7 basis concepts as columns with operati
 Click on any axis for a quick jump to its more detailed essay. 
 This template maps each axis to a pre-configured top-level folder structure with root notes[^0] and custom CSS snippet to add Obsidian vault some aesthetics.
 
-|           [0@V (`Vit`)](0@V/0@V)            |           [1@A (`Apl`)](1@A/1@A)            |        [2@C (`Com`)](2@C/2@C)             |       [3@U (`Und`)](3@U/3@U)              |       [4@I (`Inv`)](4@I/4@I)              |        [5@T (`Tem`)](5@T/5@T)             |         [6@Y (`Yld`)](6@Y/6@Y)            |
-| :-----------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |
 |          [Explora∫n](#exploration)          |           [Defini∫n](#definition)           |         [Negotia∫n](#negotiation)         |       [Specifica∫n](#specification)       |          [Genera∫n](#generation)          |          [Revela∫n](#revelation)          |         [Integra∫n](#integration)         |
+| :-----------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |
 |          observe, gather, survey,           |          structure, anchor, tune,           |        discuss, trade, influence,         |       process, filtrate, classify,        |        model, iterate, prototype,         |       visualise, reframe, analyse,        |       condense, stabilise, ground,        |
-|                   Pioneer                   |                  Composer                   |                 Mediator                  |                 Archivist                 |                 Innovator                 |                 Engraver                  |                  Farmer                   |
+|                   Where?                    |                    When?                    |                    Who?                   |                   Which?                  |                    How?                   |                    Why?                   |                   What?                   |
 |                 **Sunday**                  |                 **Monday**                  |                **Tuesday**                |               **Wednesday**               |               **Thursday**                |                **Friday**                 |               **Saturday**                |
 |             💥 Sun *σ* (sigma)              |              🎵 Moon *ν* (nu)               |            ♨️ Fire *θ* (theta)            |           🌀 Water *γ* (gamma)            |            🌿 Wood *α* (alpha)            |             ⚡ Metal *φ* (phi)             |            ⏳ Earth *ζ* (zeta)             |
 |                  日 orange                   |                  月 violet                   |                   火 red                   |                  水 blue                   |                  木 green                  |                 金 yellow                  |                  土 brown                  |
 | <span style="color:#F47933  ">F47933</span> | <span style="color:#9A69AD  ">9A69AD</span> | <span style="color:#E42F44">E42F44</span> | <span style="color:#056AB5">056AB5</span> | <span style="color:#278A46">278A46</span> | <span style="color:#FFC220">FFC220</span> | <span style="color:#9A734A">9A734A</span> |
-
+|         [0---V (`Vit`)](0---V/0---V)        |         [1---A (`Apl`)](1---A/1---A)        |       [2---C (`Com`)](2---C/2---C)        |       [3---U (`Und`)](3---U/3---U)        |       [4---I (`Inv`)](4---I/4---I)        |        [5---T (`Tem`)](5---T/5---T)       |         [6---Y (`Yld`)](6---Y/6---Y)      |
 
 ## 🎮 VACUITY 🎲
 > ***A 7-axis cognitive basis for structured thinking***
@@ -24,10 +23,11 @@ The system is designed to be a foundational layer for structuring thought and ac
 I primarily use it as a *narrative framework for gamified cognition*. 
 Each axis has a role / archetype baked in with an attribute that can be widely applicable. 
 The elegance here lies in blending of (human-intuitive) graspable archetypes with the potential for AI-agents. 
-Here are some examples how you can use it right now:
-+ **In Personal Productivity:** Transform your daily to-do list into a quest log and journal progress notes in the Obsidian vault.
-+ **In Creative Writing & Worldbuilding:** Use the 7 axes as a character development framework. 
-+ **In AI Agent Architecture:** Each axis can define a specialized module or "cognitive primitive" for a dedicated AI-agent where attributes (`Vit`, `Apl`, etc.) work as adjustable parameters that govern its behaviour, creating a transparent and interpretable architecture for complex reasoning.
+Here are some examples how I use it:
++ **As [Filepath Grammar Rationale](#Appendix)**: 
++ **In Creative Writing & Worldbuilding:** 7 axes as a character development framework 
++ **In Personal Productivity:** Transform daily to-do list into a quest log and journal progress notes in the Obsidian vault.
++ **As AI Agent Architecture:** Each axis can define a specialized module or "cognitive primitive" for a dedicated AI-agent where attributes (`Vit`, `Apl`, etc.) work as adjustable parameters that govern its behaviour, creating a transparent and interpretable architecture for complex reasoning.
 
 Most importantly it can inspire you to maybe invent a better system or at least step on the path to structure you own human (or AI) thoughts! 
 At least for me it was game-changing in terms of productivity.
@@ -98,7 +98,7 @@ On a practical note, the repo has two main goals:
 + **Daily life activities:** 
 	+ *"Field Journal"* = sketching unexpected observations during commutes in paper notebook
 	+ *"Serendipity Walks"* = urban or countryside explorations with no predetermined route
-+ **RPG attribute = [vitality (`Vit`)](#vitality)**
++ **RPG attribute = [vitality (`Vit`)](0---V/0---V)**
 
 ### definition 
 > ***The sustained effort to anchor chaos with resonant structures*** 
@@ -119,7 +119,7 @@ On a practical note, the repo has two main goals:
 + **Daily life activities:** 
 	+ *"Tidal Audits"* = journaling and regular review of personal/system rhythms
 	+ *"Year/Month/Week Mapping"* = aligning tasks with different scale time-frames  
-+ **RPG attribute = [aplomb (`Apl`)](#aplomb)**
++ **RPG attribute = [aplomb (`Apl`)](1---A/1---A)**
 
 ### negotiation 
 > ***The dynamic balancing of competing inputs through collaborative tension*** 
@@ -140,7 +140,7 @@ On a practical note, the repo has two main goals:
 + **Daily life activities:** 
 	+ *"Equilibrium Sprints"* = team alignment in mediator-leaded session
 	+ *"Trade-off Journal"* = documenting compromise outcomes and lessons
-+ **RPG attribute = [compassion (`Com`)](#compassion)**
++ **RPG attribute = [compassion (`Com`)](2---C/2---C)**
 
 ### specification 
 > ***The precise reduction of ambiguity into actionable representations*** 
@@ -161,7 +161,9 @@ On a practical note, the repo has two main goals:
 + **Daily life activities:** 
 	+ *"Vault Pruning"* = weekly notes cleanup (ex. dead-links removal)
 	+ *"Taxonomy Sprints"* = sessions to classify pending items (emails, tasks)
-+ **RPG attribute = [understanding (`Und`)](#understanding)** ### generation 
++ **RPG attribute = [understanding (`Und`)](3---U/3---U)** 
+
+### generation 
 > ***The iterative construction of novel solutions through systematic recombination*** 
 + **Operational verbs = model, iterate, prototype** 
 + **Role = The Innovator** diverges branches of possibility and stimulates growth - bridging nature’s recombinant strategies (pollination, meiosis) and generative adversarial networks. 
@@ -180,7 +182,7 @@ On a practical note, the repo has two main goals:
 + **Daily life activities:** 
 	+ *"Sketch-storming"* = short-sessions of doodling a problem 
 	+ *"Morpho-Grid"* = putting problem attributes into matrix form
-- **RPG attribute = [inventiveness (`Inv`)](#inventiveness)**
+- **RPG attribute = [inventiveness (`Inv`)](4---I/4---I)**
 
 ### revelation 
 > ***The emergent recognition of undiscovered through analysis and perspective shifts*** 
@@ -201,7 +203,7 @@ On a practical note, the repo has two main goals:
 + **Daily life activities:** 
 	+ *"Negative Space Exercise"* = spend some time sketching only the gaps in a problem
 	+ *"Error Ledger"* = document and validate judgment to check for cognitive biases
-+ **RPG attribute = [temperance (`Tem`)](#temperance)**
++ **RPG attribute = [temperance (`Tem`)](5---T/5---T)**
 
 ### integration 
 > ***The synthesis of knowledge into cohesive outputs through strategic patience***
@@ -222,11 +224,13 @@ On a practical note, the repo has two main goals:
 + **Daily life activities:** 
 	+ *"Weekly Ritual"* = light notes cultivation (reading, tagging, no writing)
 	+ *"Analog Grounding"* = nature walks, sketching by hand, musical instrument
-+ **RPG attribute = [yielding (`Yld`)](#yielding)**
++ **RPG attribute = [yielding (`Yld`)](6---Y/6---Y)**
 
 
 ## Symbolism 
-The whole project is very much an attempt of philosophical reflection, so it should be taken with a grain of rational salt. Some argumentation may be rather subjective - constructive criticism is very welcomed in GitHub Discussions!
+The whole project is very much an attempt of philosophical reflection, so it should be taken with a grain of rational salt. 
+Some argumentation may be rather subjective - constructive criticism is very welcomed in [GitHub Discussions](https://github.com/abramsci/VACUITY/discussions)!
+
 > [!CAUTION]
 > **Disclaimer**
 > 
@@ -296,7 +300,6 @@ The whole project is very much an attempt of philosophical reflection, so it sho
 	+ Restful, muted, grounded tone evokes archival durability and patience
 	+ Celebrates imperfection and weathering (Wabi-Sabi) - knowledge matures with rest
 
-
 ### basis?
 Regarding terminology used, let's address the core definition. 
 The phrase `cognitive basis` is not a standard expression in neurobiology or psychology domains, but in my opinion one can construct a meaningful explanation by combining concepts from both cognitive science and linear algebra.
@@ -312,7 +315,65 @@ For this specific cognitive basis each axis/dimension:
 + Limits [symbolism](#Symbolism) to metaphors and archetypical links only (no pseudo-science!)
 
 
-## Appendices
+# Appendix
+
+## Filepath Grammar Rationale
+This cognitive basis can be extended beyond notes into overall file naming and directories organization.
+Here I document the convention emerged after using VACUITY for a year (and more than a decade of thinking in this direction).
+This is an optional compliment that can provide a lifeline for those of us drowing in digital chaos.
+For example, I personally managed to finally organize few terabytes of my research artifacts (code, data, figures, text, etc.) along various files in personal space.
+
+### ASCII-characters as the backbone 
+Not all symbols are safe across various operating systems (OS) and use cases: some break shells (major issue), some trigger `ls` quotation (minor inconvinience), some are just visually confusing. 
+The goal is a minimal, memorable set that covers all necessary roles without ambiguity or risk.
+The set below isn't ideal as it probably would not work very well in URL paths, but it is rather reliable for file paths on three main OS.
+
+#### Core symbols 
+
+|         symbol |              role              | notes                                                                                                 |
+| -------------: | :----------------------------: | :---------------------------------------------------------------------------------------------------- |
+|        dot `.` | primary (conceptual) separator | Naturally maps to `/` (or `\`) if we want to group flat filenames with same concept into a folder.    |
+|       plus `+` | additive (logical AND, comma)  | Act both as a comma `,` and `&` in list-like filepath parts joining entities in the same category.    |
+|  c-braces `{}` |    values, parameters, tags    | Curly are visually distinct and don't trigger shell quoting unlike square `[]` or normal `()` ones.   |
+|         at `@` |    `value@key` attribution     | Not URL friendly but fine for paths across file and operating systems. Explained more in examples.    |
+|       dash `-` |    sub-separator (taxonomy)    | Hierarchy within conceptual field (right specifies left) like in ISO 8601 date `2026-05-14` example.  |
+|    double `--` |              range             | Two hyphens indicate continuation between two entities. (usually time or some value).                 |
+|   triple `---` |   definition alias (equality)  | Three hyphens for strong equivalence between two entities (basically `≡` but filepath friendly).      |
+| underscore `_` |   word separator (i.e. space)  | Use sparingly - `snake_case` fatigue is real. Better distill filepath down to its structured essence. |
+
+#### Rejected (forbidden) symbols
+
+|         symbol | rationale                                                                                             |
+| -------------: | :---------------------------------------------------------------------------------------------------- |
+| s-bracers `[]` | Triggers shell globbing (major), `ls` adds quotes to account for that which don't look clean (minor). |
+|   bracers `()` | Used for subshells and command grouping, can break scripts that don't escape properly, `ls` quotes.   |
+|      equal `=` | Works on Windows, but may conflict with some CLI tooling (major), `ls` adds quotes on Linux (minor).  |
+|      caret `^` | Special for Windows batch files - escape/prefix (major), can be visually confusing, `ls` adds quotes. |
+|      comma `,` | Technically safe, but visually confusable with primary dot delimeter `.`. Logically covered by `+`.   |
+|      tilde `~` | Reserved in most shells as 'home' directory alias. Risk of confusion (~backup.txt vs ~/backup.txt).   |
+|     number `#` | Too much confusion with various use cases outside file path naming. Avoid to keep the grammar tight.  |
+|      colon `:` | Reserved for drive letters on Windows. Also used as path separator in macOS. Very ambiguous.          |
+|  semicolon `;` | Command separator in bash. Injection risk in a scripts without proper quoting. Dangerous.             |
+|        `?` `*` | Wildcards. Trigger glob expansion in shells. Can't be used in file path normally in most OS.          |
+
+While `#` and `,` are **technically safe** in filesystems and shells, they are excluded simply because adding it would increases cognitive load without much benefit. 
+The core symbols already providing enough roles for the complete and tight grammar.
+Other metacharacters like percent `%`, ampersant `&`, pipe `|` , less sign `<`, more sign `>`, single `'` , double  `"` and back quote sign are either downright impossible to use in most OS/filesystems or plain inappropriate as it would just break most shells. 
+
+### What Makes a Good Filename
+
+Each filename answers a few key questions (*Where? When? Who? Which? How? Why? What?*) without forcing any fixed order or number of questions.
+A good filename according to this grammar:
+- Uses `.` to separate major fields
+- Uses `-` for hierarchy within a field when needed
+- Uses `{ }` for values, parameters, or tags
+- Answers 2–4 of the seven questions, not all seven
+- Is readable at a glance
+
+A filename that tries to answer every question becomes unreadable. Leave some questions for the folder structure or the file's content.
+
+
+## What's else?
 
 ### Contribute 
 > [!TIP]
@@ -323,12 +384,10 @@ For this specific cognitive basis each axis/dimension:
 If you found any ideas in this project worthy - do not hesitate, let me know what resonated! 
 If you have decent confidence of what can be added/removed/modified - feel free to contribute to the template (but make sure to create a new branch before pull-request)!
 
-
 ### Useful links / further reading🔗 
 
 + [Seven Dimensions](https://www.youtube.com/watch?v=bI-FS7aZJpY) - a video-essay by Kieran Borovac on YouTube that I highly recommend to get a reason behind anchoring cognitive axis to physical dimensions.
 + [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908) - useful everyday reference to have.
-
 + Kotseruba, I., & Tsotsos, J. K. (2020) 40 years of cognitive architectures: core cognitive abilities and practical applications. Artificial Intelligence Review, 53 (1): 17-94. [https://arxiv.org/pdf/1610.08602](https://arxiv.org/pdf/1610.08602)
 + Grundspenkis, J. (2007) Agent based approach for organization and personal knowledge modelling: knowledge management perspective. Journal of Intelligent Manufacturing, 18 (4): 451–457 [DOI:10.1007/s10845-007-0052-6](https://doi.org/10.1007/s10845-007-0052-6)
 

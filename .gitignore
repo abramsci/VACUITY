@@ -1,4 +1,4 @@
-.obsidian\*
-!.obsidian\app.json
-!.obsidian\appearance.json
-!.obsidian\snippets\VACUITY.css
+.obsidian/*
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/snippets\VACUITY.css
