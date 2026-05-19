@@ -14,7 +14,7 @@ This template maps each axis to a pre-configured top-level folder structure with
 |             💥 Sun *σ* (sigma)              |              🎵 Moon *ν* (nu)               |            ♨️ Fire *θ* (theta)            |           🌀 Water *γ* (gamma)            |            🌿 Wood *α* (alpha)            |             ⚡ Metal *φ* (phi)             |            ⏳ Earth *ζ* (zeta)             |
 |                  日 orange                   |                  月 violet                   |                   火 red                   |                  水 blue                   |                  木 green                  |                 金 yellow                  |                  土 brown                  |
 | <span style="color:#F47933  ">F47933</span> | <span style="color:#9A69AD  ">9A69AD</span> | <span style="color:#E42F44">E42F44</span> | <span style="color:#056AB5">056AB5</span> | <span style="color:#278A46">278A46</span> | <span style="color:#FFC220">FFC220</span> | <span style="color:#9A734A">9A734A</span> |
-|          [`0---V`](0---V/0---V.md)          |          [`1---A`](1---A/1---A.md)          |         [`2---C`](2---C/2---C.md)         |         [`3---U`](3---U/3---U.md)         |         [`4---I`](4---I/4---I.md)         |         [`5---T`](5---T/5---T.md)         |         [`6---Y`](6---Y/6---Y.md)         |
+|          [`0`](0/0.md)          |          [`1`](1/1.md)          |         [`2`](2/2.md)         |         [`3`](3/3.md)         |         [`4`](4/4.md)         |         [`5`](5/5.md)         |         [`6`](6/6.md)         |
 
 ## 🎮 VACUITY 🎲
 > ***A 7-axis cognitive basis for structured thinking***
@@ -98,7 +98,7 @@ On a practical note, the repo has two main goals:
 + **Daily life activities:** 
 	+ *"Field Journal"* = sketching unexpected observations during commutes in paper notebook
 	+ *"Serendipity Walks"* = urban or countryside explorations with no predetermined route
-+ **RPG attribute = [vitality (`Vit`)](0---V/0---V)**
++ **RPG attribute = [vitality (`Vit`)](0/0.md)**
 
 ### definition 
 > ***The sustained effort to anchor chaos with resonant structures*** 
@@ -119,7 +119,7 @@ On a practical note, the repo has two main goals:
 + **Daily life activities:** 
 	+ *"Tidal Audits"* = journaling and regular review of personal/system rhythms
 	+ *"Year/Month/Week Mapping"* = aligning tasks with different scale time-frames  
-+ **RPG attribute = [aplomb (`Apl`)](1---A/1---A)**
++ **RPG attribute = [aplomb (`Apl`)](1/1.md)**
 
 ### negotiation 
 > ***The dynamic balancing of competing inputs through collaborative tension*** 
@@ -140,7 +140,7 @@ On a practical note, the repo has two main goals:
 + **Daily life activities:** 
 	+ *"Equilibrium Sprints"* = team alignment in mediator-leaded session
 	+ *"Trade-off Journal"* = documenting compromise outcomes and lessons
-+ **RPG attribute = [compassion (`Com`)](2---C/2---C)**
++ **RPG attribute = [compassion (`Com`)](2/2.md)**
 
 ### specification 
 > ***The precise reduction of ambiguity into actionable representations*** 
@@ -161,7 +161,7 @@ On a practical note, the repo has two main goals:
 + **Daily life activities:** 
 	+ *"Vault Pruning"* = weekly notes cleanup (ex. dead-links removal)
 	+ *"Taxonomy Sprints"* = sessions to classify pending items (emails, tasks)
-+ **RPG attribute = [understanding (`Und`)](3---U/3---U)** 
++ **RPG attribute = [understanding (`Und`)](3/3.md)** 
 
 ### generation 
 > ***The iterative construction of novel solutions through systematic recombination*** 
@@ -182,7 +182,7 @@ On a practical note, the repo has two main goals:
 + **Daily life activities:** 
 	+ *"Sketch-storming"* = short-sessions of doodling a problem 
 	+ *"Morpho-Grid"* = putting problem attributes into matrix form
-- **RPG attribute = [inventiveness (`Inv`)](4---I/4---I)**
+- **RPG attribute = [inventiveness (`Inv`)](4/4.md)**
 
 ### revelation 
 > ***The emergent recognition of undiscovered through analysis and perspective shifts*** 
@@ -203,7 +203,7 @@ On a practical note, the repo has two main goals:
 + **Daily life activities:** 
 	+ *"Negative Space Exercise"* = spend some time sketching only the gaps in a problem
 	+ *"Error Ledger"* = document and validate judgment to check for cognitive biases
-+ **RPG attribute = [temperance (`Tem`)](5---T/5---T)**
++ **RPG attribute = [temperance (`Tem`)](5/5.md)**
 
 ### integration 
 > ***The synthesis of knowledge into cohesive outputs through strategic patience***
@@ -224,7 +224,7 @@ On a practical note, the repo has two main goals:
 + **Daily life activities:** 
 	+ *"Weekly Ritual"* = light notes cultivation (reading, tagging, no writing)
 	+ *"Analog Grounding"* = nature walks, sketching by hand, musical instrument
-+ **RPG attribute = [yielding (`Yld`)](6---Y/6---Y)**
++ **RPG attribute = [yielding (`Yld`)](6/6.md)**
 
 
 ## Symbolism 
@@ -253,7 +253,7 @@ Some argumentation may be rather subjective - constructive criticism is very wel
 + **Colour = (154,105,173) ← Faber-Castell pencil №160:** <span style="color:#9A69AD; font-weight: bold">manganese violet</span> 
 	+ An aniline dye derivative synthetic pigment replacing costly natural one
 	+ Used in NASA’s Lunar Reconnaissance Orbiter maps
-	+ Historically considered royal or imperial in the West, authority in modern UX design
+	+ Historically considered royal or imperial in the West, even now often indicates 'admin' authority in modern UX design
 
 ### 火 Fire ♨️ (#E42F44) 
 + **Kanji = 火 (ho / ka)** → Tuesday
@@ -330,16 +330,16 @@ The set below isn't ideal as it probably would not work very well in URL paths, 
 
 #### Core symbols 
 
-|         symbol |              role              | notes                                                                                                 |
-| -------------: | :----------------------------: | :---------------------------------------------------------------------------------------------------- |
-|        dot `.` | primary (conceptual) separator | Naturally maps to `/` (or `\`) if we want to group flat filenames with same concept into a folder.    |
-|       plus `+` | additive (logical AND, comma)  | Act both as a comma `,` and `&` in list-like filepath parts joining entities in the same category.    |
-|  c-braces `{}` |    values, parameters, tags    | Curly are visually distinct and don't trigger shell quoting unlike square `[]` or normal `()` ones.   |
-|         at `@` |    `value@key` attribution     | Not URL friendly but fine for paths across file and operating systems. Explained more in examples.    |
-|       dash `-` |    sub-separator (taxonomy)    | Hierarchy within conceptual field (right specifies left) like in ISO 8601 date `2026-05-14` example.  |
-|    double `--` |              range             | Two hyphens indicate continuation between two entities. (usually time or some value).                 |
-|   triple `---` |   definition alias (equality)  | Three hyphens for strong equivalence between two entities (basically `≡` but filepath friendly).      |
-| underscore `_` |   word separator (i.e. space)  | Use sparingly - `snake_case` fatigue is real. Better distill filepath down to its structured essence. |
+|            symbol |              role              | notes                                                                                                 |
+| ----------------: | :----------------------------: | :---------------------------------------------------------------------------------------------------- |
+|           dot `.` | primary (conceptual) separator | Naturally maps to `/` (or `\`) if we want to group flat filenames with same concept into a folder.    |
+|          plus `+` | additive (logical AND, comma)  | Act both as a comma `,` and `&` in list-like filepath parts joining entities in the same category.    |
+|          dash `-` |    sub-separator (taxonomy)    | Hierarchy within conceptual field (right specifies left) like in ISO 8601 date `2026-05-14` example.  |
+| curly braces `{}` |    values, parameters, tags    | Curly are visually distinct and don't trigger shell quoting unlike square `[]` or normal `()` ones.   |
+|            at `@` |    `value@key` attribution     | Not URL friendly but fine for paths across file and operating systems. Explained more in examples.    |
+|  double plus `++` |              range             | Two pluses indicate continuation between two entities. (usually time or some value).                  |
+|  double dash `--` |   definition alias (equality)  | Two hyphens for strong equivalence between two entities (basically `=` but more friendly pathwise).   |
+|    underscore `_` |   word separator (i.e. space)  | Use sparingly - `snake_case` fatigue is real. Better distill filepath down to its structured essence. |
 
 #### Rejected (forbidden) symbols
 
@@ -364,13 +364,17 @@ Other metacharacters like percent `%`, ampersant `&`, pipe `|` , less sign `<`, 
 
 Each filename answers a few key questions (*Where? When? Who? Which? How? Why? What?*) without forcing any fixed order or number of questions.
 A good filename according to this grammar:
-- Uses `.` to separate major fields
-- Uses `-` for hierarchy within a field when needed
-- Uses `{ }` for values, parameters, or tags
-- Answers 2–4 of the seven questions, not all seven
-- Is readable at a glance
+- Is readable at a glance, short and digestable
+- File name answers 2 to 4 of the seven questions, full file path maps more.
+- Uses `.` to separate major fields inside file name and `/` (`\`) in full path.
+- Uses `+` if there is more than one relevant entity in the major field.
+- Uses `-` for hierarchy within a major field when needed.
+- Optionally has `{tag+theme+context}` for tags appending major field main content. 
+- Optionally uses `@` for simple attribution inside the field and {value}@key for specifics.
 
-A filename that tries to answer every question becomes unreadable. Leave some questions for the folder structure or the file's content.
+
+A long filename that contains every possible detail becomes unreadable. 
+Ideally the high-level folder structure should facilitate answering most important questions.
 
 
 ## What's else?
