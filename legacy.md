@@ -398,4 +398,3 @@ If you have decent confidence of what can be added/removed/modified - feel free 
 [^0]: I also recommend using Lost Paul's 'Folder notes' (https://github.com/LostPaul/obsidian-folder-notes/) plugin with this template.
 [^1]: Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review. 63 (2): 81–97. DOI:10.1037/h0043158
 [^2]: DeepSeek Chat, 2024 - Conversations on Cognitive Engine Framework.
-
